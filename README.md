@@ -7,10 +7,10 @@ This repository contains two R files to accompany my MA40249 year-long project.
 The following packages are required to run the files:
 
 ```{r}
-library('abind')
-library('MASS')
-library('tictoc')
-library('grid')
+install.packages('abind')
+install.packages('MASS')
+install.packages('tictoc')
+install.packages('grid')
 ```
 
 ## Usage
